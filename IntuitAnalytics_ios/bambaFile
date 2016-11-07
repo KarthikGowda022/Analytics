@@ -1,0 +1,9 @@
+DEPENDENCIES="
+DeviceInfoLibrary 0.0.0.99-SNAPSHOT
+"
+
+NEXUS_REPOS="https://iapps.corp.intuit.net/nexus/service/local/artifact/maven" # Space separated list
+REPOS="Intuit.Shared.iOS-releases Intuit.Shared.iOS-snapshots" # Space separated list
+GROUP_ID="com.intuit.scs"
+DEPENDENCY_VERSION=1.0.4
+
